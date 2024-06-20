@@ -3,12 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thisari2002&label=Profile%20views&color=0e75b6&style=flat" alt="thisari2002" /> </p>
 
+---
 | ![Thisari's github stats](https://github-readme-stats.vercel.app/api?username=Thisari2002&show_icons=true&theme=tokyonight) | ![Thisari GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thisari2002&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisari2002&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Thisari2002&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
----
+
 - 📫 How to reach me **amandathisari2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
