@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thisari Jayasooriya</h1>
-<h3 align="center">Passionate Frontend Developer & Data Scientist from Sri Lanka - Sharing Knowledge for a Brighter Future</h3>
+<h3 align="center">Passionate Frontend & Backend Developer from Sri Lanka - Sharing Knowledge for a Brighter Future</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thisari2002&label=Profile%20views&color=0e75b6&style=flat" alt="thisari2002" /> </p>
 
